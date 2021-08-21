@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Code for Comparison of wealth compounding in Proof-of-Stake and delegated Proof-of-Stake blockchain consensus mechanisms Bacherlor's Project."
+authors:
+- family-names: "Popov"
+  given-names: "Lazar"
+title: "crypto-compouding-of-wealth-PoS-and-DPoS-simulations"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2021-08-21
+url: "https://github.com/LazarPopov/crypto-compouding-of-wealth-PoS-and-DPoS-simulations"
